@@ -1,0 +1,24 @@
+********** END POINTS **********
+End point:  /register
+
+Expects:
+1. name [string]
+2. storeId [int]
+3. price [float]
+
+
+--------------
+End point:  /auth
+
+Expects:
+1. username [string]
+2. password [string]
+--------------
+
+
+
+
+
+
+
+
